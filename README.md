@@ -1,3 +1,8 @@
+## Autor
+- Nombre: Luis Angel Andrade
+- Email: a22311120@uthermosillo.edu.mx 
+- GitHub: [@doggytrop](https://github.com/doggytrop)
+
 # .
 
 This template should help get you started developing with Vue 3 in Vite.

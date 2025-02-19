@@ -20,7 +20,7 @@ const texto = ref('')
 .container {
     display: flex;
     margin-top: 10px;
-    padding-top: 50px;
+    padding-top: 2px;
 }
 .content {
     

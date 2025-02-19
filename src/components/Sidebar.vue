@@ -7,6 +7,7 @@
     <li><router-link to="/contador">Contador</router-link></li>
     <li><router-link to="/lista-de-tareas">Lista de tareas</router-link></li>
     <li><router-link to="/registrar">Registrar</router-link></li>
+    <li><router-link to="/calcular">Calcular</router-link></li>
 
 </ul>
 
@@ -24,7 +25,7 @@ const registrarStore = useRegistrarStore();
 .Sidebar {
     width: 250px;
     background-color: #f0f0f0;
-    padding: 20px;
+    
     
 }
 </style>
